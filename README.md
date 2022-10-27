@@ -1,4 +1,4 @@
-# devoir-git
+# Camille DARGENT
 # Nermine HORRY
 
 how_many_people = 3
