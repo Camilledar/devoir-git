@@ -1,4 +1,4 @@
-# devoir-git
+# Camille DARGENT
 
 #Ulysse
 how_many_people = 3
