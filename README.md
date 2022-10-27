@@ -1,6 +1,6 @@
 # Camille DARGENT
 # Nermine HORRY
-#Ulysse
+#Ulysse pseudo Ulysse6
 how_many_people = 3
 
 for i in range(1, how_many_people + 1):
