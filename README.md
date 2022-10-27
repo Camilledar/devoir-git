@@ -1,4 +1,4 @@
-# Camille DARGENT
+# Camille DARGENT pseudo: Camilledar
 # Nermine HORRY
 #Ulysse
 how_many_people = 3
