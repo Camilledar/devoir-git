@@ -1,5 +1,5 @@
 # Camille DARGENT pseudo: Camilledar
-# Nermine HORRY
+# Nermine HORRY pseudo: NermineH
 #Ulysse
 how_many_people = 3
 
